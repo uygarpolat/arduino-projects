@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/015a3ca3-1b53-4a46-96ef-e879f9124d6a
+
+
+
 # ESP8266 Ultrasonic Distance Monitor with I²C LCD
 
 A simple ESP8266 project that measures distance using an HC-SR04 ultrasonic sensor, displays it on a 16×2 I²C LCD, and prints readings to the Serial Monitor. Wi-Fi connectivity is initialized (with optional ThingSpeak integration).
