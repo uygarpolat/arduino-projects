@@ -1,3 +1,6 @@
+
+![output](https://github.com/user-attachments/assets/57935ed7-35be-407e-9130-a2ebedb8cb19)
+
 ## ShowerThoughts on ESP8266
 
 A simple, and probably inelegant, ESP8266 sketch that, on reset, grabs Reddit’s top /r/Showerthoughts posts (via ThingSpeak) and scrolls one random thought on a LCD display. Each reset advances a counter so you see a new thought next time.
